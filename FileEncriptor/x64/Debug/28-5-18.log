@@ -1,0 +1,3 @@
+﻿  workspace.c
+c:\users\ran70\google drive\השכלה\טכנאות הנדסת תוכנה\פרויקט גמר\final\28-5-18\workspace.c(584): warning C4013: 'gets' undefined; assuming extern returning int
+  28-5-18.vcxproj -> C:\Users\ran70\Google Drive\השכלה\טכנאות הנדסת תוכנה\פרויקט גמר\final\x64\Debug\28-5-18.exe
